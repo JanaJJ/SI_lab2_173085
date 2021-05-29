@@ -2,6 +2,8 @@
 ## Јана Јовановска, бр. на индекс 173085
 ### Control Flow Graph
 
+![ControlFlowGraph](https://user-images.githubusercontent.com/72630045/120078974-2b69d580-c0b2-11eb-99ba-1a879e0d83b0.jpg)
+
 
 ### Цикломатска комплексност
 
